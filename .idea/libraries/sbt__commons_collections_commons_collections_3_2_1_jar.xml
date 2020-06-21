@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: commons-collections:commons-collections:3.2.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/maven.aliyun.com/repository/central/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.github.fommil.netlib:core:1.1.2:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/maven.aliyun.com/repository/central/com/github/fommil/netlib/core/1.1.2/core-1.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

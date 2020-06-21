@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.twitter:chill_2.10:0.8.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/maven.aliyun.com/repository/central/com/twitter/chill_2.10/0.8.0/chill_2.10-0.8.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

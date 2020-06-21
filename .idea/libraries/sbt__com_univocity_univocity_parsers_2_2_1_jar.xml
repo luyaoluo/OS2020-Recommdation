@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: com.univocity:univocity-parsers:2.2.1:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/maven.aliyun.com/repository/central/com/univocity/univocity-parsers/2.2.1/univocity-parsers-2.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

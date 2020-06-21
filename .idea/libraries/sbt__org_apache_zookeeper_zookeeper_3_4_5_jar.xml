@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: org.apache.zookeeper:zookeeper:3.4.5:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/AppData/Local/Coursier/cache/v1/https/maven.aliyun.com/repository/central/org/apache/zookeeper/zookeeper/3.4.5/zookeeper-3.4.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
