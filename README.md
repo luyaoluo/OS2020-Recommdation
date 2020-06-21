@@ -34,12 +34,12 @@ Recommdation Algorithm with Rules Association for USTC 2020 OS(with spark,scala)
 - 结果还有点小bug
   - 提取的频繁模式与示例相比多很多，不清楚是它给的示例有问题还是我们算的有问题。
   - 最后的推荐结果有少部分与示例不同，原因尚不明确
-- spark没有设置过partitionNum（不知道需不需要，这样有可能并不是真正的并行）。。
+- spark没有设置过partitionNum（不知道需不需要，这样有可能并不是真正的并行），还涉及到性能调优的问题（不过缺少数据集不用特别关心这个）。。
 - 需要将程序打包成jar包(PPT所述)，最后输出也有要求
 
 #### 文档部分
 
-![image-20200622000251034](C:\Users\lly\AppData\Roaming\Typora\typora-user-images\image-20200622000251034.png)
+![1592755638(1).jpg](http://ww1.sinaimg.cn/large/006y8jFply1gg0d0on8tuj30kk062wey.jpg)
 
 详情参照ppt。
 
