@@ -1,7 +1,8 @@
 # OS2020-Recommdation
 Recommdation Algorithm with Rules Association for USTC 2020 OS(with spark,scala)
-[项目相关](#项目相关)
-[项目相关](#代码部分)
+
+- [项目相关](#项目相关)
+- [代码部分](#代码部分CODE)
 
 ### 项目相关
 
@@ -30,7 +31,7 @@ Recommdation Algorithm with Rules Association for USTC 2020 OS(with spark,scala)
 
 ### TO DO(Up to 6.21)
 
-#### 代码部分
+#### 代码部分CODE
 
 - 优化一下每个函数的参数（为了方便起见函数的传参部分写的比较乱）以及文件路径的表示，按照ppt所述，路径不能直接写死在程序里。
 - 结果还有点小bug
